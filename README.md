@@ -1,5 +1,7 @@
 # Desafio-Ford
 
+Sou integrante da equipe verde.
+
 O arquivo ford.js contém duas funções, cujo as finalidades são:
 
 - Função criptografar:
